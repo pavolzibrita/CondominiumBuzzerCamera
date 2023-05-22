@@ -1,4 +1,4 @@
-# Version 3 (1.2)
+# Version 4 (1.2)
 * Added activity to send feedback directly from application
 * Provided FAQ link in the feedback screen
 * Showing the camera feed close to the top at first
