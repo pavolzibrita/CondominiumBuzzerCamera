@@ -3,6 +3,8 @@
 * Provided FAQ link in the feedback screen
 * Showing the camera feed close to the top at first
 * Camera feed window will now remember its last used position and use it next time
+* Updated policy: https://github.com/pavolzibrita/CondominiumBuzzerCamera/blob/main/policy.txt
+* Added release notes: https://github.com/pavolzibrita/CondominiumBuzzerCamera/blob/main/RELEASE%20NOTES.md
 
 # Version 2 (1.1)
 * Added request permissions screen to validate all required permissions are granted
