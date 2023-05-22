@@ -1,3 +1,7 @@
 This application does not collect or store personal data.
 
 If you installed this application from Google Play, then Google Play does collect some personal data. Please see the privacy policy for Google Play Services here: https://policies.google.com/privacy
+
+This application collects this non personal data:
+* text feedback provided and submited by user during testing using 'submit feedback' activity
+* metrics about how fast the camera feed opens, each time the camera feed is opened
