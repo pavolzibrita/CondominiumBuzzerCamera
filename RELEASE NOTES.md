@@ -1,3 +1,7 @@
+# Version 5 (1.3)
+* Camera feed is now using secure connection (SSL-TLSv1.2)
+* Showing the right dialog on feedback submitted success/failure
+
 # Version 4 (1.2)
 * Added activity to send feedback directly from application
 * Provided FAQ link in the feedback screen
